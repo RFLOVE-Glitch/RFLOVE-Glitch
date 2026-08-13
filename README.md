@@ -1,13 +1,16 @@
 # Rachel Love
 
-**Cybersecurity • Cloud Computing • Solution Architecture • Enterprise Security Operations**
+**Cybersecurity • Cloud Computing • Solution Architecture • Enterprise Security Operations • Oracle & Data Engineering**
 
-I am a cybersecurity and cloud professional focused on designing secure, resilient, and practical enterprise solutions. My work and studies span security operations, cloud architecture, cryptography, Oracle/database technologies, systems administration, responsible AI, and risk-aligned technical design.
+I am a cybersecurity and cloud professional focused on designing secure, resilient, and practical enterprise solutions. My work and studies span security operations, cloud architecture, cryptography, Oracle/database technologies, systems administration, responsible AI, data engineering, and risk-aligned technical design.
 
 🌐 **Portfolio:** [rachellove.tech](https://rachellove.tech/)  
-🛡️ **Featured project:** [Enterprise Shield](https://github.com/RFLOVE-Glitch/enterprise-shield)
+🛡️ **Featured project:** [Enterprise Shield](https://github.com/RFLOVE-Glitch/enterprise-shield)  
+🗄️ **Featured project:** [Oracle Secure Data Engineering Lab](https://github.com/RFLOVE-Glitch/oracle-secure-data-engineering-lab)
 
-## Featured Project — Enterprise Shield
+## Featured Projects
+
+### Enterprise Shield
 
 **Enterprise Shield** is a portfolio-grade Security Operations and Solution Architecture MVP demonstrating how I approach enterprise cybersecurity from both an operational and architectural perspective.
 
@@ -24,6 +27,24 @@ It includes:
 
 ➡️ [Explore Enterprise Shield](https://github.com/RFLOVE-Glitch/enterprise-shield)
 
+### Oracle Secure Data Engineering Lab
+
+**Oracle Secure Data Engineering Lab** is a recruiter-facing portfolio lab demonstrating how I design, operate, tune, govern, and secure an Oracle-oriented data platform. It uses **synthetic data only** and clearly separates implemented portfolio functionality from production architecture concepts.
+
+It includes:
+
+- ETL pipeline modeling, run history, stage timing, and SLA tracking
+- Oracle schema design and PL/SQL patterns
+- Data-quality checks, reconciliation, stewardship, and governance evidence
+- Query-performance analysis and tuning workflows
+- Replication, resilience, backup, RPO/RTO, and disaster-recovery concepts
+- Audit evidence, privileged-action visibility, and security-control design
+- TypeScript, React, TanStack Start, Vitest, ESLint, and Prettier
+- Clear disclosure that Oracle, ODI, GoldenGate, and Informatica references demonstrate architecture concepts rather than live integrations
+
+➡️ [Explore the GitHub repository](https://github.com/RFLOVE-Glitch/oracle-secure-data-engineering-lab)  
+🚀 [Open the live demo](https://oracle-secure-data-engineering-lab.lovable.app)
+
 ## Education
 
 **Purdue University Global**  
@@ -35,6 +56,7 @@ Academic and lab experience includes cybersecurity, cloud technologies, cryptogr
 ## Technical Focus
 
 ### Cybersecurity & Security Architecture
+
 - Security operations and incident-response concepts
 - Vulnerability management and remediation workflows
 - Threat modeling and defense-in-depth architecture
@@ -44,6 +66,7 @@ Academic and lab experience includes cybersecurity, cloud technologies, cryptogr
 - Responsible AI and human-in-the-loop security decision support
 
 ### Cloud, Systems & Enterprise Platforms
+
 - Cloud computing and solution-architecture concepts
 - Linux and Windows Server
 - ServiceNow
@@ -51,6 +74,7 @@ Academic and lab experience includes cybersecurity, cloud technologies, cryptogr
 - Enterprise monitoring, administration, and operational workflows
 
 ### Oracle, Database & Data Engineering
+
 - PL/SQL
 - Oracle APEX
 - Oracle Database Administration fundamentals
@@ -69,6 +93,7 @@ Current portfolio themes include:
 - Enterprise security operations
 - Secure cloud and solution architecture
 - Cybersecurity governance and control mapping
+- Oracle and secure data engineering
 - Database security and administration
 - Cryptography and secure-system design
 - AI-assisted workflows with human accountability
@@ -78,6 +103,7 @@ Current portfolio themes include:
 - **Portfolio:** [rachellove.tech](https://rachellove.tech/)
 - **GitHub:** [RFLOVE-Glitch](https://github.com/RFLOVE-Glitch)
 - **Enterprise Shield:** [github.com/RFLOVE-Glitch/enterprise-shield](https://github.com/RFLOVE-Glitch/enterprise-shield)
+- **Oracle Secure Data Engineering Lab:** [github.com/RFLOVE-Glitch/oracle-secure-data-engineering-lab](https://github.com/RFLOVE-Glitch/oracle-secure-data-engineering-lab)
 
 ---
 
