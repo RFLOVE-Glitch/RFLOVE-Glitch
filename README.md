@@ -1,12 +1,13 @@
 # Rachel Love
 
-**Cybersecurity • Cloud Computing • Solution Architecture • Enterprise Security Operations • Oracle & Data Engineering**
+**Cybersecurity • Cloud Computing • Solution Architecture • Enterprise Security Operations • Oracle & Data Engineering • AI Security & Assurance**
 
-I am a cybersecurity and cloud professional focused on designing secure, resilient, and practical enterprise solutions. My work and studies span security operations, cloud architecture, cryptography, Oracle/database technologies, systems administration, responsible AI, data engineering, and risk-aligned technical design.
+I am a cybersecurity and cloud professional focused on designing secure, resilient, and practical enterprise solutions. My work and studies span security operations, cloud architecture, cryptography, Oracle/database technologies, systems administration, responsible AI, data engineering, AI security assurance, and risk-aligned technical design.
 
 🌐 **Portfolio:** [rachellove.tech](https://rachellove.tech/)  
 🛡️ **Featured project:** [Enterprise Shield](https://github.com/RFLOVE-Glitch/enterprise-shield)  
-🗄️ **Featured project:** [Oracle Secure Data Engineering Lab](https://github.com/RFLOVE-Glitch/oracle-secure-data-engineering-lab)
+🗄️ **Featured project:** [Oracle Secure Data Engineering Lab](https://github.com/RFLOVE-Glitch/oracle-secure-data-engineering-lab)  
+🤖 **Featured project:** [AI Security & Prompt Evaluation Lab](https://github.com/RFLOVE-Glitch/ai-security-prompt-evaluation-lab)
 
 ## Featured Projects
 
@@ -45,6 +46,25 @@ It includes:
 ➡️ [Explore the GitHub repository](https://github.com/RFLOVE-Glitch/oracle-secure-data-engineering-lab)  
 🚀 [Open the live demo](https://oracle-secure-data-engineering-lab.lovable.app)
 
+### AI Security & Prompt Evaluation Lab
+
+**AI Security & Prompt Evaluation Lab** is a defensive AI assurance portfolio MVP for evaluating assistant behavior before release using synthetic probes, transparent deterministic scoring, and explicit human review.
+
+It includes:
+
+- Synthetic evaluation probes across instruction robustness, data protection, policy consistency, and tool safety
+- Transparent 0–100 deterministic scoring with documented risk bands and conservative verdict logic
+- Human-review routing for high-stakes or uncertain results
+- Evaluation-run history, safety-test catalogue, and audit-evidence views
+- Architecture and threat-model documentation with explicit trust boundaries
+- Responsible-AI guidance and clear limitations on what the demo represents
+- TypeScript, React, TanStack Start, Vitest, and reusable dashboard components
+- **27/27 automated tests passing** with a successful production build
+- Clear separation between implemented portfolio functionality and production capabilities such as live model integrations, authentication, protected secrets, persistent storage, and production authorization
+
+➡️ [Explore the GitHub repository](https://github.com/RFLOVE-Glitch/ai-security-prompt-evaluation-lab)  
+🚀 [Open the live demo](https://ai-security-prompt-evaluation-lab.lovable.app)
+
 ## Education
 
 **Purdue University Global**  
@@ -64,6 +84,7 @@ Academic and lab experience includes cybersecurity, cloud technologies, cryptogr
 - Cryptography — academic and applied professional experience
 - Certified Ethical Hacking I & II coursework/training
 - Responsible AI and human-in-the-loop security decision support
+- AI security assurance, prompt evaluation, and transparent scoring concepts
 
 ### Cloud, Systems & Enterprise Platforms
 
@@ -86,7 +107,7 @@ Academic and lab experience includes cybersecurity, cloud technologies, cryptogr
 
 ## What I Build
 
-I enjoy projects that connect **business risk, cybersecurity controls, cloud architecture, data, and operational workflows** rather than treating them as separate disciplines. I focus on making technical decisions explainable, auditable, and useful to both engineering teams and leadership.
+I enjoy projects that connect **business risk, cybersecurity controls, cloud architecture, data, AI assurance, and operational workflows** rather than treating them as separate disciplines. I focus on making technical decisions explainable, auditable, and useful to both engineering teams and leadership.
 
 Current portfolio themes include:
 
@@ -96,6 +117,7 @@ Current portfolio themes include:
 - Oracle and secure data engineering
 - Database security and administration
 - Cryptography and secure-system design
+- AI security assurance and prompt evaluation
 - AI-assisted workflows with human accountability
 
 ## Connect
@@ -104,6 +126,7 @@ Current portfolio themes include:
 - **GitHub:** [RFLOVE-Glitch](https://github.com/RFLOVE-Glitch)
 - **Enterprise Shield:** [github.com/RFLOVE-Glitch/enterprise-shield](https://github.com/RFLOVE-Glitch/enterprise-shield)
 - **Oracle Secure Data Engineering Lab:** [github.com/RFLOVE-Glitch/oracle-secure-data-engineering-lab](https://github.com/RFLOVE-Glitch/oracle-secure-data-engineering-lab)
+- **AI Security & Prompt Evaluation Lab:** [github.com/RFLOVE-Glitch/ai-security-prompt-evaluation-lab](https://github.com/RFLOVE-Glitch/ai-security-prompt-evaluation-lab)
 
 ---
 
