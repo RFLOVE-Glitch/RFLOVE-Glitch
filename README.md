@@ -4,10 +4,11 @@
 
 I am a cybersecurity and cloud professional focused on designing secure, resilient, and practical enterprise solutions. My work and studies span security operations, cloud architecture, cryptography, Oracle/database technologies, systems administration, responsible AI, data engineering, AI security assurance, and risk-aligned technical design.
 
-🌐 **Portfolio:** [rachellove.tech](https://rachellove.tech/)  
-🛡️ **Featured project:** [Enterprise Shield](https://github.com/RFLOVE-Glitch/enterprise-shield)  
-🗄️ **Featured project:** [Oracle Secure Data Engineering Lab](https://github.com/RFLOVE-Glitch/oracle-secure-data-engineering-lab)  
-🤖 **Featured project:** [AI Security & Prompt Evaluation Lab](https://github.com/RFLOVE-Glitch/ai-security-prompt-evaluation-lab)
+- 🌐 **Portfolio:** [rachellove.tech](https://rachellove.tech/)
+- 🛡️ **Featured project:** [Enterprise Shield](https://github.com/RFLOVE-Glitch/enterprise-shield)
+- 🔐 **Featured project:** [Ethical Hacking & Attack Surface Validation Lab](https://github.com/RFLOVE-Glitch/secure-scope-lab)
+- 🗄️ **Featured project:** [Oracle Secure Data Engineering Lab](https://github.com/RFLOVE-Glitch/oracle-secure-data-engineering-lab)
+- 🤖 **Featured project:** [AI Security & Prompt Evaluation Lab](https://github.com/RFLOVE-Glitch/ai-security-prompt-evaluation-lab)
 
 ## Featured Projects
 
